@@ -1,0 +1,13 @@
+div {
+    background: #FFFF00;
+    border: 10px solid #0000FF;
+    width: 150px;
+    height: 100px;
+    margin: 25px;
+    padding: 20px;
+}
+
+p {
+    background: #FFFFFF;
+    border: 5px solid #000000;
+}
